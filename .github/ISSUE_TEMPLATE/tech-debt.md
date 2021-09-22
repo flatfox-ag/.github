@@ -2,7 +2,7 @@
 name: Technical or maintenance issue
 about: Something is outdated
 title: ''
-labels: housekeeping
+labels: "type:housekeeping"
 assignees: ''
 
 ---
