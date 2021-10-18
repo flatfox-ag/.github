@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Pure UX issue
 about: This needs UX ...
 title: ''
 labels: "type:ux"
