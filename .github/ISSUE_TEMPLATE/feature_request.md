@@ -7,8 +7,6 @@ assignees: 'jules-flatfox'
 
 ---
 
-**!!!Open enhancement issues in repository "product"!!!**
-
 **Problem**
 
 - A clear and concise description of what the problem is
