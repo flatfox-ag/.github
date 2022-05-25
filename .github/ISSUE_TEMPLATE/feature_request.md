@@ -23,3 +23,8 @@ How do you think the problem could be solved in the product?
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
+
+
+**Communication**
+<to be filled by product team>
+What is the key message (screen shots) to send to #progress and/or customers/market done in this feature?
