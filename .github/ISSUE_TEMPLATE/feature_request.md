@@ -3,7 +3,7 @@ name: Feature request
 about: This would be cool...
 title: ''
 labels: "product:not_ready"
-assignees: 'jules-flatfox'
+assignees: 'HannaWettstein90'
 
 ---
 
