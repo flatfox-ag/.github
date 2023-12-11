@@ -19,7 +19,9 @@ assignees: 'HannaWettstein90'
 
 
 **Implementation ideas**
-How do you think the problem could be solved in the product?
+
+- KPI/Events: Do we need new measurement for this issue?
+- How do you think the problem could be solved in the product?
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
